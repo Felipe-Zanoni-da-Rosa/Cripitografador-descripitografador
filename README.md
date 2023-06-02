@@ -1,1 +1,2 @@
 Para converter o arquivo main.pyw em .exe baixe a biblioteca PyInstaller e execute pelo terminal o codigo build.py (python build.py) ou só execute o codigo .exe
+Para instalar as bibliotecas nescessrias execute o codigo libs.py
